@@ -1,0 +1,12 @@
+#EXTINF:-1 ,AMC
+http://190.4.0.200:3333/play/a01u/index.m3u8
+#EXTINF:-1 ,AXN
+http://190.4.0.200:3333/play/a01s/index.m3u8
+#EXTINF:-1 ,Animal Planet
+http://190.4.0.200:3333/play/a031/index.m3u8
+#EXTINF:-1 ,Antena 3
+http://190.4.0.200:3333/play/a00g/index.m3u8
+#EXTINF:-1 ,Atres Series
+http://190.4.0.200:3333/play/a00k/index.m3u8
+#EXTINF:-1 ,Azcorazon
+http://190.4.0.200:3333/play/a01j/index.m3u8
